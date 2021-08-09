@@ -1,6 +1,6 @@
-# myapp
+# QuranMyFriend
 
-A new Flutter application.
+A new voice based Flutter application that works on Android and gives the Quranic Answers in the form of Video on the user predefined Queries.
 
 ## Getting Started
 
